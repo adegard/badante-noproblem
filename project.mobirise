@@ -1,9 +1,9 @@
 {
   "settings": {
-    "currentPage": "stripe.html",
+    "currentPage": "paga.html",
     "versionFirst": "3.7.3",
     "versionPublish": "3.10",
-    "uniqCompNum": 87,
+    "uniqCompNum": 92,
     "name": "L'assistenza anziani dal volto umano | Santa Rosa Assistenza",
     "theme": {
       "name": "mobirise3",
@@ -3474,170 +3474,6 @@
         }
       ]
     },
-    "stripe.html": {
-      "settings": {
-        "title": "Chi Siamo | Santa Rosa Assistenza - ASE Soc Coop",
-        "meta_descr": "La Santa Rosa Assistenza - ASE Società Cooperativa è iscritta all’Albo Informatico delle Agenzie per il Lavoro - Autorizzata all'esercizio a tempo indeterminato allo svolgimento delle attività di ricerca e selezione del personale"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1b",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Pagine test",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2e",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><a href=\"#\"><form action=\"/your-server-side-code\" method=\"POST\">   <script src=\"https://checkout.stripe.com/checkout.js\" class=\"stripe-button\" data-key=\"pk_test_hRJJpqqE5JngxH8AXrDWh7sW\" data-amount=\"999\" data-name=\"ASE Società Cooperativa\" data-description=\"Widget\" data-image=\"https://s3.amazonaws.com/stripe-uploads/acct_183VI7G0YbuYaoY7merchant-icon-1461435710634-simbolo.jpg\" data-locale=\"auto\" data-zip-code=\"true\" data-currency=\"eur\">   </script> </form></a></p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_name": "contacts1",
-          "_anchor": "page4-contacts1-0",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-santa-rosa-assistenza-ok-128x32-86.png",
-              "width": 128,
-              "active": true,
-              "link": "index.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Indirizzi</strong><br>ASE Società Cooperativa<br>P.IVA: 03256270129.<br>Via Volta 37 - SARONNO (VA)<br>Via Dante 85- COMO (CO)<br><br>Autorizzata all'esercizio a tempo indeterminato allo svolgimento delle attività di ricerca e selezione del personale. Sez. IV. Aut. Min. Prot. n° 39/0002009<br><br>",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@asecooperativa.com<br>+39 031 207 1413 (preventivi)<br>+39 338 90 233 68 (lavoro)<br>lun-ven 9:00-12:00 e 14:30-17:30",
-          "text3": "<strong>Links</strong><br><a href=\"Preventivo-badante-online.html\">Chiedi un preventivo</a><br><a href=\"ccnl.html\">Consulta il CCNL</a><br><a href=\"termini.html\">Termini e condizioni del servizio</a><br><a href=\"privacy.html\">Privacy</a><br><a href=\"Chi-siamo.html\">Chi siamo</a><a href=\"privacy.html\"><br></a><br><br>Altri siti del gruppo&nbsp;<br><a href=\"http://www.misscleany.com/\" target=\"_blank\">Pulizie-stiro</a><a href=\"privacy.html\"><br></a><a href=\"termini.html\"><br></a><br><br>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#efefef"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
-            },
-            ".link, .dropdown-item": {
-              "color": "#efefef"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#efefef",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "page4-menu-0",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "0.8",
-            "fontName": {},
-            "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-santa-rosa-assistenza-512x128-15.png",
-              "height": 128,
-              "alt": "logo santa rosa assistenza",
-              "link": "home.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-msg-box4-0\">COME FUNZIONA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://colfebadante.altervista.org/\" target=\"_blank\">CERCHI LAVORO?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-features7-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#index-header3-0\">COSTO BADANTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#index-pricing-table2-0\">COSTI AGENZIA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-msg-box4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Chi-siamo.html\">CHI SIAMO&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#index-testimonials1-0\">DICONO DI NOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ccnl.html\">CCNL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://lamiabadante.blogspot.it/\" target=\"_blank\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.badante-noproblem.com/video/index.php/category/1-assistenza\" target=\"_blank\">VIDEO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Richiesta_pacchetto_informativo.html\">MI INFORMO</a></li>"
-        }
-      ]
-    },
     "Richiesta_pacchetto_informativo.html": {
       "settings": {
         "title": "Come trovare la badante ideale? | Badante no problem",
@@ -4311,6 +4147,189 @@
               "height": 128,
               "alt": "",
               "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#index-msg-box4-0\">COME FUNZIONA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://colfebadante.altervista.org/\" target=\"_blank\">CERCHI LAVORO?</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-features7-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COSTI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#index-header3-0\">COSTO BADANTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#index-pricing-table2-0\">COSTI AGENZIA</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#index-msg-box4-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FAQ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Chi-siamo.html\">CHI SIAMO&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#index-testimonials1-0\">DICONO DI NOI</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ccnl.html\">CCNL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://lamiabadante.blogspot.it/\" target=\"_blank\">BLOG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.badante-noproblem.com/video/index.php/category/1-assistenza\" target=\"_blank\">VIDEO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Richiesta_pacchetto_informativo.html\">MI INFORMO</a></li>"
+        }
+      ]
+    },
+    "paga.html": {
+      "settings": {
+        "title": "Pagamento fatture - ASE Soc Coop",
+        "meta_descr": "Scegli il modo di pagamento della tua fattura - ASE Soc. Coop. - Santa Rosa Assistenza"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1b",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "&nbsp;Scegli un metodo: &nbsp;&nbsp;",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content6-2i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><br></p><p><br></p><p>PAGA TRAMITE BONIFICO<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span></p><p><br></p><p>con le seguenti coordinate bancarie:&nbsp;</p><p><br></p><p>Intestare a : \"ASE società cooperativa\"&nbsp;</p><p>Banca Popolare di Milano, IBAN: IT89O0558450520000000054174</p><p>Causale: Titolo della fattura (\"Proforma fattura n° del.../.../...\")</p><p><br></p><p>&nbsp;</p>",
+          "text2": "<p><a href=\"#\"><iframe id=\"yourframeid\" name=\"Form pagamento\" src=\"http://www.badante-noproblem.com/stripe/index_fattura.php\" onload=\"this.style.height=(this.contentDocument.body.scrollHeight+15) +'px';\" frameborder=\"0\" scrolling=\"no\" style=\"width: 100%; height: 1117px;\">     </iframe></a>&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><a href=\"#\"><script language=\"JAVASCRIPT\" type=\"TEXT/JAVASCRIPT\"> <!-- var popupWindow=null; function popup(mypage,myname,w,h,pos,infocus){  if (pos == 'random') {LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;} else {LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;} settings='width='+ w + ',height='+ h + ',top=' + TopPosition + ',left=' + LeftPosition + ',scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=yes';popupWindow=window.open('',myname,settings); if(infocus=='front'){popupWindow.focus();popupWindow.location=mypage;} if(infocus=='back'){popupWindow.blur();popupWindow.location=mypage;popupWindow.blur();}  } // --> </script> <input style=\"font-size:12px;color:#000066;font-family:verdana;\" type=\"button\" name=\"B1\" value=\"PAGA ORA CON CARTA\" onclick=\"popup('http://www.badante-noproblem.com/stripe/index_fattura.php','Form pagamento','640','480','center','front');\"></a><a href=\"#\"><script language=\"JAVASCRIPT\" type=\"TEXT/JAVASCRIPT\"></script></a></p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "page4-contacts1-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-santa-rosa-assistenza-ok-128x32-86.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Indirizzi</strong><br>ASE Società Cooperativa<br>P.IVA: 03256270129.<br>Via Volta 37 - SARONNO (VA)<br>Via Dante 85- COMO (CO)<br><br>Autorizzata all'esercizio a tempo indeterminato allo svolgimento delle attività di ricerca e selezione del personale. Sez. IV. Aut. Min. Prot. n° 39/0002009<br><br>",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@asecooperativa.com<br>+39 031 207 1413 (preventivi)<br>+39 338 90 233 68 (lavoro)<br>lun-ven 9:00-12:00 e 14:30-17:30",
+          "text3": "<strong>Links</strong><br><a href=\"Preventivo-badante-online.html\">Chiedi un preventivo</a><br><a href=\"ccnl.html\">Consulta il CCNL</a><br><a href=\"termini.html\">Termini e condizioni del servizio</a><br><a href=\"privacy.html\">Privacy</a><br><a href=\"Chi-siamo.html\">Chi siamo</a><a href=\"privacy.html\"><br></a><br><br>Altri siti del gruppo&nbsp;<br><a href=\"http://www.misscleany.com/\" target=\"_blank\">Pulizie-stiro</a><a href=\"privacy.html\"><br></a><a href=\"termini.html\"><br></a><br><br>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2969b0!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "page4-menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-santa-rosa-assistenza-512x128-15.png",
+              "height": 128,
+              "alt": "logo santa rosa assistenza",
+              "link": "home.html",
               "title": "",
               "linkInNewWindow": false
             },
